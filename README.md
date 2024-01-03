@@ -11,7 +11,7 @@
 
 ## 💁‍♂️ About Me
 
-- 🔭 I’m currently working on a sports homepage app to view scores and info on your favourite teams on one page.
+- 🔭 I’m currently working on a Magic the gathering web-app to show available instant speed interaction.
 - 🌱 I’m currently learning MongoDB and non-relational databases.
 - 🤔 I’m looking for help with understanding Amazon Web Services and serverless deployment.
 - 🥭 Fun fact: Mangoes are actually the best fruit
